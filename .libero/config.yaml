@@ -1,0 +1,5 @@
+assets: /home/jwhe/linyihan/LIBERO-plus/libero/libero/assets
+bddl_files: /home/jwhe/linyihan/LIBERO-plus/libero/libero/bddl_files
+benchmark_root: /home/jwhe/linyihan/LIBERO-plus/libero/libero
+datasets: /home/jwhe/linyihan/LIBERO-plus/libero/datasets
+init_states: /home/jwhe/linyihan/LIBERO-plus/libero/libero/init_files

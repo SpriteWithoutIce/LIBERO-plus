@@ -1,0 +1,10 @@
+[
+  {
+    "base_task": "pick_up_the_alphabet_soup_and_place_it_in_the_basket",
+    "new_task": "pick_up_the_alphabet_soup_and_place_it_in_the_basket_swap_1",
+    "target_object": "alphabet_soup_1",
+    "swapped_with": "salad_dressing_1",
+    "source_bddl": "libero/libero/bddl_files/libero_object/pick_up_the_alphabet_soup_and_place_it_in_the_basket.bddl",
+    "output_bddl": "libero/libero/bddl_files/libero_object/pick_up_the_alphabet_soup_and_place_it_in_the_basket_swap_1.bddl"
+  }
+]
